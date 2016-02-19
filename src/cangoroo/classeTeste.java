@@ -11,5 +11,9 @@ package cangoroo;
  */
 public class classeTeste {
     
+    public void exe() {
+        
+        System.out.println("Olá!!!");
     
+    }
 }
