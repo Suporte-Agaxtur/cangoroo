@@ -18,6 +18,7 @@ public class Cangoroo {
         // TODO code application logic here
         System.out.println("Hello, World!");
         int x = 10;
+        int y = 15;
         System.out.println(x);
     }
     

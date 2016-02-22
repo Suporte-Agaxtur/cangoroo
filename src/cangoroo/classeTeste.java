@@ -14,6 +14,7 @@ public class classeTeste {
     public void exe() {
         
         System.out.println("Olá!!!");
+        System.out.println("Teste");
     
     }
 }
